@@ -1,9 +1,13 @@
 # Project Description
 This is a front-end only e-commerce website built using React. 
 Features include:
+
   Shop, Cart, Search, and individual Product pages
+ 
   Add to and remove from cart
+  
   Product images and descriptions
+  
   Cart checkout section
 
 
