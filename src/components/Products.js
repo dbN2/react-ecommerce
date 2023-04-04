@@ -27,7 +27,7 @@ export const PRODUCTS = [
         name: "Feline",
         price: 300,
         image: catImage,
-        description: "A green cat."
+        description: "Schrodinger's cat."
     },{
         id: 3,
         name: "Albanian Flag",
@@ -57,7 +57,7 @@ export const PRODUCTS = [
         name: "Envelope",
         price: 20,
         image: envelopeImage,
-        description: "Schrodinger's envelope."
+        description: "What's in it?"
     },{
         id: 8,
         name: "Honda Civic",
