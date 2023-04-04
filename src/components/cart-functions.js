@@ -2,7 +2,7 @@ import { PRODUCTS } from "./Products";
 
 
 
-export const getDefaultCart = () => {  //Initalize a cart with no items. Value of each element is its quantity in the cart, and index is equal to product's id
+export const getDefaultCart = () => {  //Initalize a cart with no items. Value of each element is its quantity in the cart, and indices are mapped to product ids.
     let cart = {}
     for( let i=0; i<PRODUCTS.length; i++){
         cart[i] = 0;
